@@ -12,7 +12,7 @@ body{
     color: white;
     font-family: 'IntroRust-Base';
     text-align: center;
-    background-image: url('atividade 4/fundo2.jpg'); /* Substitua 'caminho-para-sua-imagem.jpg' pelo caminho real da sua imagem */
+    background-image: url('fundo2.jpg'); /* Substitua 'caminho-para-sua-imagem.jpg' pelo caminho real da sua imagem */
     background-size: cover; /* Isso dimensionará a imagem para cobrir todo o corpo */
     background-repeat: no-repeat; /* Evita que a imagem de fundo se repita */
     background-attachment: fixed; /* Mantém a imagem de fundo fixa ao rolar a página */
